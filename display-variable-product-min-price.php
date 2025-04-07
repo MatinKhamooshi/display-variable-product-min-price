@@ -4,6 +4,8 @@
  * Description: Displays the minimum price of variable products as the default price on all front pages. Ensures the price is greater than 0.
  * Version: 1.0
  * Author: Matin Khamooshi
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 // Hook into WooCommerce to modify the variable product price display
