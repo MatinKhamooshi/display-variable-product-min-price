@@ -2,7 +2,7 @@
 Contributors: matinkhamooshi
 Tags: woocommerce, price, variable product, minimum price
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 7.0
 Stable tag: 1.0
 License: GPL v2 or later
